@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ballZone/static/css/main.55409ce6.chunk.css",
+    "main.js": "/ballZone/static/js/main.b62f2ab5.chunk.js",
+    "main.js.map": "/ballZone/static/js/main.b62f2ab5.chunk.js.map",
+    "runtime-main.js": "/ballZone/static/js/runtime-main.eb34907c.js",
+    "runtime-main.js.map": "/ballZone/static/js/runtime-main.eb34907c.js.map",
+    "static/css/2.383c0125.chunk.css": "/ballZone/static/css/2.383c0125.chunk.css",
+    "static/js/2.d818ad82.chunk.js": "/ballZone/static/js/2.d818ad82.chunk.js",
+    "static/js/2.d818ad82.chunk.js.map": "/ballZone/static/js/2.d818ad82.chunk.js.map",
+    "static/js/3.33a6860f.chunk.js": "/ballZone/static/js/3.33a6860f.chunk.js",
+    "static/js/3.33a6860f.chunk.js.map": "/ballZone/static/js/3.33a6860f.chunk.js.map",
+    "index.html": "/ballZone/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/ballZone/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.55409ce6.chunk.css.map": "/ballZone/static/css/main.55409ce6.chunk.css.map",
+    "static/js/2.d818ad82.chunk.js.LICENSE.txt": "/ballZone/static/js/2.d818ad82.chunk.js.LICENSE.txt",
+    "static/media/122038.26d4b932.png": "/ballZone/static/media/122038.26d4b932.png",
+    "static/media/2841911.09263268.jpg": "/ballZone/static/media/2841911.09263268.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb34907c.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.d818ad82.chunk.js",
+    "static/css/main.55409ce6.chunk.css",
+    "static/js/main.b62f2ab5.chunk.js"
+  ]
+}
